@@ -50,6 +50,8 @@ Following gestures are required to fully control the drone :
 | Speed Increase | ![speedIncrease](/assets/images/speedIncrease.png 'speedUp')        |
 | Speed Decrease | ![speedDecrease](/assets/images/speedDecrease.png 'speed Decrease') |
 
+You can find video of gestures [here.](https://drive.google.com/drive/folders/16gRxcGkjr_TiNS_cZ31QjPYy01w1bbWs?usp=sharing)
+
 ## Simulator
 
 ![Drone Simulator](/assets/images/drone-sim.png 'Drone Simulator')
