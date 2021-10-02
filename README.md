@@ -1,6 +1,6 @@
 # Gesture Controlled Drone 
 
-## 1.   	Explain your project?
+## 1.   	Explain the project?
 Ans: This app is based upon gesture control. In this app a drone will be controlled by the hand gesture of the user.
  
 ## 2.   	Why this project?
