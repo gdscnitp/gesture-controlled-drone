@@ -2,7 +2,7 @@
 
 ## Introduction :
 
-This project is based on gesture control. In this project a drone will be controlled by the hand gestures of a user. This project is handled by the DSC ML Team of NIT Patna
+This project is based on gesture control. In this project a drone will be controlled by the hand gestures of a user. It is handled by the DSC ML Team of NIT Patna.
 
 ## Why this project ?
 
