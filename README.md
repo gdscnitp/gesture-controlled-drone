@@ -37,18 +37,24 @@ The data in this dataset is collected by the GDSC ML department and has been pre
 
 Following gestures are required to fully control the drone :
 
-| Movement       | Gesture |
-| -------------- | ------- |
-| North          | Image   |
-| South          |         |
-| East           |         |
-| West           |         |
-| North East     |         |
-| North West     |         |
-| South East     |         |
-| South West     |         |
-| Speed Increase |         |
-| Speed Decrease |         |
+| Movement       | Gesture                                                             |
+| -------------- | ------------------------------------------------------------------- |
+| North          | ![north](/assets/images/north.png 'north')                          |
+| South          | ![south](/assets/images/south.png 'south')                          |
+| East           | ![east](/assets/images/east.png 'east')                             |
+| West           | ![west](/assets/images/west.png 'west')                             |
+| North East     | ![northEast](/assets/images/northEast.png 'northEast')              |
+| North West     | ![northWest](/assets/images/northWest.png 'northWest')              |
+| South East     | ![southEast](/assets/images/southEast.png 'southEast')              |
+| South West     | ![southWest](/assets/images/southWest.png 'southWest')              |
+| Speed Increase | ![speedIncrease](/assets/images/speedIncrease.png 'speedUp')        |
+| Speed Decrease | ![speedDecrease](/assets/images/speedDecrease.png 'speed Decrease') |
+
+## Simulator
+
+![Drone Simulator](/assets/images/drone-sim.png 'Drone Simulator')
+
+In order to simulate the performance of our ML model in real world we needed a drone simulator. It has been developed using Unity Engine where you can control the drone by taking output of the ML model as an input in the simulator. You can find the exe build of the simulator [here.](https://drive.google.com/file/d/1sUan_-f3Hw_wgs0o9t56jX1qf-1iYGne/view?usp=sharing)
 
 ## Accuracy
 
