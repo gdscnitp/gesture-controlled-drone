@@ -4,13 +4,12 @@
 
 This project is based on gesture control. In this project a drone will be controlled by the hand gestures of a user. It is handled by the DSC ML Team of NIT Patna.
 
-## Why this project ?
+- **Why this project ?**
 
-The gestures elicit a close personal connection with content and enhance the sense of direct manipulation of objects. Gesture controls allow you to navigate without touching any physical buttons.
+  The gestures elicit a close personal connection with content and enhance the sense of direct manipulation of objects. Gesture controls allow you to navigate without touching any physical buttons.
 
-## Needs of the project :
-
-We require students having experience in ML we also require the ‘App development’ team to develop an app for our project and ‘Hardware team’ to build a drone simulator.
+- **Needs of the project :**
+  We require students having experience in ML we also require the ‘App development’ team to develop an app for our project and ‘Hardware team’ to build a drone simulator.
 
 ## How it works :
 
@@ -71,4 +70,7 @@ In order to simulate the performance of our ML model in real world we needed a d
 - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
 - [Raj Kothari](https://github.com/rajkothari634)
 - [Aparna Juhi](https://github.com/AparnaJuhi)
-- [Bhanu](https://github.com/)
+- [Bhanu Pandey](https://github.com/)
+- [Neeraj Patil](https://github.com/Neeraj2212)
+- [Digvijay Srivastava](https://github.com/dig9074vijay)
+- [Shivam Tyagi](https://github.com/ShivamTyagi12345)
