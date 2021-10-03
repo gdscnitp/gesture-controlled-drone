@@ -37,18 +37,18 @@ The data in this dataset is collected by the GDSC ML department and has been pre
 
 Following gestures are required to fully control the drone :
 
-| Movement       | Gesture                                                             |
-| -------------- | ------------------------------------------------------------------- |
-| North          | ![north](/assets/images/north.png 'north')                          |
-| South          | ![south](/assets/images/south.png 'south')                          |
-| East           | ![east](/assets/images/east.png 'east')                             |
-| West           | ![west](/assets/images/west.png 'west')                             |
-| North East     | ![northEast](/assets/images/northEast.png 'northEast')              |
-| North West     | ![northWest](/assets/images/northWest.png 'northWest')              |
-| South East     | ![southEast](/assets/images/southEast.png 'southEast')              |
-| South West     | ![southWest](/assets/images/southWest.png 'southWest')              |
-| Speed Increase | ![speedIncrease](/assets/images/speedIncrease.png 'speedUp')        |
-| Speed Decrease | ![speedDecrease](/assets/images/speedDecrease.png 'speed Decrease') |
+| Movement       | Gesture                                                                             |
+| -------------- | ----------------------------------------------------------------------------------- |
+| North          | <img src="assets/images/north.png" alt="drawing" width="150" height='275'/>         |
+| South          | <img src="assets/images/south.png" alt="drawing" width="150" height='275'/>         |
+| East           | <img src="assets/images/east.png" alt="drawing" width="150" height='275'/>          |
+| West           | <img src="assets/images/west.png" alt="drawing" width="150" height='275'/>          |
+| North East     | <img src="assets/images/northEast.png" alt="drawing" width="150" height='275'/>     |
+| North West     | <img src="assets/images/northWest.png" alt="drawing" width="150" height='275'/>     |
+| South East     | <img src="assets/images/southEast.png" alt="drawing" width="150" height='275'/>     |
+| South West     | <img src="assets/images/southWest.png" alt="drawing" width="150" height='275'/>     |
+| Speed Increase | <img src="assets/images/speedIncrease.png" alt="drawing" width="150" height='275'/> |
+| Speed Decrease | <img src="assets/images/speedDecrease.png" alt="drawing" width="150" height='275'/> |
 
 You can find video of gestures [here.](https://drive.google.com/drive/folders/16gRxcGkjr_TiNS_cZ31QjPYy01w1bbWs?usp=sharing)
 
@@ -60,22 +60,15 @@ In order to simulate the performance of our ML model in real world we needed a d
 
 ## Accuracy
 
-| Model Name             | Accuracy Acheived |
-| ---------------------- | ----------------- |
-| Logistic Regression    | 98.66%            |
-| Support Vector Machine | 93.42%            |
-| XGBoost                | 98.73%            |
-| Linear SVM             | 96%               |
-| Decision Tree          | 92.5%             |
-| Random Forest          | 92.5%             |
-| KNN                    | 91%               |
-
-## What is the time of completion of the project?
-
-We can't set a time limit for this as it is a big project. The process of data collection and construction of drone requires some time and will also contribute in deciding the time limit.
+| Model Name   | Accuracy Acheived |
+| ------------ | ----------------- |
+| CNN          | 98.66%            |
+| LSTM         | 93.42%            |
+| CNN and LSTM | 98.73%            |
 
 ## Maintainers of the project
 
 - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
 - [Raj Kothari](https://github.com/rajkothari634)
 - [Aparna Juhi](https://github.com/AparnaJuhi)
+- [Bhanu](https://github.com/)
